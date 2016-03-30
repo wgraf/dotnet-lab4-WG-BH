@@ -1,0 +1,4 @@
+You cannot publish branch master to remote origin because 
+a branch with the same name already exists in the remote
+repository. Publishing this branch would result in a 
+non-fast-forward update on the branch in the remote repository.
